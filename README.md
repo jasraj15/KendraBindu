@@ -242,7 +242,7 @@ kendrabindu/
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/your-username/kendrabindu.git
+git clone https://github.com/jasraj15/KendraBindu
 cd kendrabindu
 ```
 
